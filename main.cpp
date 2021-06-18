@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello World" << endl;
+	cout << "Created dev branch" << endl;
 	return 0;
 }
